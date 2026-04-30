@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a PhD student in the Department of Computer Science at The University of Hong Kong, advised by Prof. Taku Komura. My research focuses on **physics-based simulation and high performance computing**.
+I am a first-year PhD student in [School of Computing and Data Science](https://www.cds.hku.hk/) at The University of Hong Kong, advised by [Prof. Taku Komura](https://i.cs.hku.hk/~taku/). My research focuses on **physics-based simulation and high performance computing**.
 
-Before joining HKU, I received a B.S. in Mechanics and a B.E. in Civil Engineering Systems from Tsinghua University.
+Before joining HKU, I received a B.S. in Mechanics and a B.E. in Civil Engineering Systems from Tsinghua University, Xinjian College.
 
 ## Research Interests
 
