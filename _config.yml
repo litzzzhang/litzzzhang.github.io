@@ -1,0 +1,38 @@
+# Basic Information
+title: Litian Zhang
+position: PhD Student
+affiliation: The University of Hong Kong
+affiliation_link: https://www.hku.hk/
+email: litzzzhang@connect.hku.hk
+
+# Search Engine Optimization (SEO)
+keywords: Litian Zhang, physics-based simulation, numerical optimization, computer graphics, fluid simulation, material point method
+description: Academic homepage of Litian Zhang, PhD student at The University of Hong Kong working on physics-based simulation and numerical optimization.
+canonical: https://litzzzhang.github.io/
+
+# Links
+cv_link: resume.pdf
+github_link: https://github.com/litzzzhang
+
+# Images
+avatar: https://github.com/litzzzhang.png
+favicon: https://github.com/litzzzhang.png
+favicon_dark: https://github.com/litzzzhang.png
+
+# Theme options
+enable_footnote: true
+auto_dark_mode: true
+font: "Serif"
+
+# Use Minimal Light as a remote theme for GitHub Pages.
+remote_theme: yaoyao-liu/minimal-light
+
+plugins:
+  - jekyll-remote-theme
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/
+  - .bundle/
