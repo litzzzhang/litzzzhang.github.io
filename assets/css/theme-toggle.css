@@ -1,3 +1,10 @@
+.image.avatar img {
+  aspect-ratio: 1;
+  object-fit: cover;
+  object-position: 72% center;
+  width: 140px;
+}
+
 .theme-toggle {
   align-items: center;
   background: transparent;

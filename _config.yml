@@ -15,7 +15,7 @@ cv_link: resume.pdf
 github_link: https://github.com/litzzzhang
 
 # Images
-avatar: https://github.com/litzzzhang.png
+avatar: ./assets/avatar.jpg
 favicon: https://github.com/litzzzhang.png
 favicon_dark: https://github.com/litzzzhang.png
 
